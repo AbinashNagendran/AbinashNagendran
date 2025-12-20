@@ -3,7 +3,7 @@
 My name is Abinash Nagendran, and I'm a 2nd-year student @ UOFT studying computer science, interested in all things relating to full-stack development and AI!
 
 - 🔭 I’m currently working on preparing myself to apply for winter internships (First time doing this, I'm excited!) 
-- 🌱 I’m currently learning the basics of relational databases (RDBMS) and SQL
+- 🌱 I’m currently learning the basics of PyTorch and pandas
 - 👯 I’m looking to collaborate on anything that has use in the real world, doesn't have to be related to web dev, I like ML stuff too!
 <!--
 **AbinashNagendran/AbinashNagendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
